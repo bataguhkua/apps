@@ -1,0 +1,67 @@
+{
+  "name": "KUA Bataguh",
+  "short_name": "KUA Bataguh",
+  "start_url": "https://kuabataguh.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#087a5a",
+  "description": "Website resmi KUA Bataguh untuk memberikan informasi dan memudahkan masyarakat dalam mengakses layanan Kantor Urusan Agama Kecamatan Bataguh.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s48/appkuabataguh.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s72/appkuabataguh.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s96/appkuabataguh.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s144/appkuabataguh.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s168/appkuabataguh.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "density": "3.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s192/appkuabataguh.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s196/appkuabataguh.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1waBi8NsLmW7HPhVACVdRDZgHNqeevqMevspOgqt2DA8NJMewtOwhiT_vFheApbhCHUkqzQxF4q0hYFz8JMrF5vcIdAGUU8_V1q1OM83Lg-MWJ70bRJOiGU65Dtoi3ESYgqsASd6Q4xt2_OdvPp9eov_LM_UDFHs-AGWu7U-dW3H0bT0ZlaMarEn6Kz8h/s512/appkuabataguh.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+    }
+  ]
+}
