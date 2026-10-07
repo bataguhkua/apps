@@ -1,7 +1,9 @@
 {
+  "id": "https://kuabataguh.blogspot.com/",
   "name": "KUA Bataguh",
   "short_name": "KUA Bataguh",
   "start_url": "https://kuabataguh.blogspot.com/",
+  "scope": "https://kuabataguh.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#087a5a",
