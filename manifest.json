@@ -1,4 +1,13 @@
-
+{
+  "id": "https://www.kuabataguh.id",
+  "name": "KUA Bataguh",
+  "short_name": "KUA Bataguh",
+  "start_url": "https://www.kuabataguh.id",
+  "scope": "https://www.kuabataguh.id",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#087a5a",
+  "description": "Website resmi KUA Bataguh untuk memberikan informasi dan memudahkan masyarakat dalam mengakses layanan Kantor Urusan Agama Kecamatan Bataguh.",
 "icons": [
   {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdih44RF53btDvkQinj40QS2fzzae8lGB1OnmHADVHWoTXiZKaY0YViuMPLpXtVx29dthrTBiAZtujnO5q-_fcsIcwQWm83zirJuqf6smcnEBnU_5vg-tW69f0g94BF-dInnd8iF13vY2hxNLAs95I-wnpkr8itMEn7VEEUYzRzZoqmi5XNTcC4iFKlNXE/s48/kuabataguh.id512.png",
@@ -57,3 +66,4 @@
     "purpose": "any maskable"
   }
 ]
+}
