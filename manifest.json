@@ -1,9 +1,9 @@
 {
-  "id": "https://www.kuabataguh.id/",
+  "id": "https://kuabataguh.id",
   "name": "KUA Bataguh",
   "short_name": "KUA Bataguh",
-  "start_url": "https://www.kuabataguh.id/",
-  "scope": "https://www.kuabataguh.id/",
+  "start_url": "https://kuabataguh.id",
+  "scope": "https://kuabataguh.id",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#087a5a",
