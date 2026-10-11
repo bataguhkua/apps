@@ -1,9 +1,9 @@
 {
-  "id": "https://www.kuabataguh.id/",
+  "id": "https://www.kuabataguh.id",
   "name": "KUA Bataguh",
   "short_name": "KUA Bataguh",
-  "start_url": "https://www.kuabataguh.id/",
-  "scope": "https://www.kuabataguh.id/",
+  "start_url": "https://www.kuabataguh.id",
+  "scope": "https://www.kuabataguh.id",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#087a5a",
@@ -13,49 +13,57 @@
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s48/kuabataguh.id.png",
       "sizes": "48x48",
       "type": "image/png",
-      "purpose": "any"
+      "density": "1.0",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s72/kuabataguh.id.png",
       "sizes": "72x72",
       "type": "image/png",
-      "purpose": "any"
+      "density": "1.0",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s96/kuabataguh.id.png",
       "sizes": "96x96",
       "type": "image/png",
-      "purpose": "any"
+      "density": "2.0",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s144/kuabataguh.id.png",
       "sizes": "144x144",
       "type": "image/png",
-      "purpose": "any"
+      "density": "3.0",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s168/kuabataguh.id.png",
       "sizes": "168x168",
       "type": "image/png",
-      "purpose": "any"
+      "density": "3.0",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s192/kuabataguh.id.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "density": "4.0",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s196/kuabataguh.id.png",
       "sizes": "196x196",
       "type": "image/png",
-      "purpose": "any"
+      "density": "4.0",
+      "purpose": "any maskable"
     },
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGX1PdtNjiZO2FpJ9oNLVuw9Nx_Shf5K0iEbJAHx6dZW2suF3wrpaMqxuXprIWaO51o1yPK7RzNQRRKHWF8sipAXQlYt6EkR-7JYgLp-PoGxVIArg2pt0HH5x8IdQOTe1k6zCvIvoZh8VJzApu-C8o42-b1DSnth9gpwMewciOLR0vyUU4FA4ZbL8Icb5/s512/kuabataguh.id.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "density": "4.0",
+      "purpose": "any maskable"
     }
   ]
 }
